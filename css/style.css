@@ -79,3 +79,28 @@ font-family: 'Roboto', sans-serif;
  }
  
  /*------------------------------------ FINE TABELLA*/
+
+ /*------------------------------------ FOOTER*/
+
+footer{
+    padding: 10px;
+}
+.interessarti{
+    color:grey;   
+}
+.image-box{
+    margin-top:10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    color: white;
+    width: 300px;
+    height: 270px;
+    background-size: cover;
+}
+#box-uno{
+    background-image: url(../img/monitor.jpg);
+}
+#box-due{
+    background-image: url(../img/graph.jpg);
+}
+
