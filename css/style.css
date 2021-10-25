@@ -60,3 +60,22 @@ font-family: 'Roboto', sans-serif;
     background-color: yellow;
 }
 /*--------------------------------------  FINE TESTO UNO*/
+
+
+/*------------------------------------ INIZIO TABELLA*/
+.table-title{
+    background-color: #20a9e5;
+    color: whitesmoke;
+    width: 25%;
+ }
+ .table-title-large{
+    background-color: #20a9e5;
+    color: whitesmoke;
+    width: 50%;
+ 
+ }
+ .colored{
+     background-color: #b1e5f2;
+ }
+ 
+ /*------------------------------------ FINE TABELLA*/
