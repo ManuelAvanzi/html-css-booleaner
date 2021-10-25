@@ -47,5 +47,16 @@ font-family: 'Roboto', sans-serif;
     margin-left: 5px;
     font-size: small;
 }
-
 /*--------------------------------------  FINE IMMAGINI*/
+
+
+
+/*--------------------------------------  INIZIO TESTO UNO*/
+.text-container{
+    padding: 5px;
+    
+}
+.evidenziato{
+    background-color: yellow;
+}
+/*--------------------------------------  FINE TESTO UNO*/
