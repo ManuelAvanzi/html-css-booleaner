@@ -21,3 +21,31 @@
     
 }
 /*--------------------------------------  FINE HEADER*/
+
+/*--------------------------------------  INIZIO TITOLO*/
+h1{
+    font-family: 'Festive', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.container-title{
+    padding: 10px;
+}
+.testo-grigio{
+    color:grey;
+}
+.testo-azzurro{
+    color:lightskyblue;
+}
+.data{
+    font-size: small;
+}
+
+/*--------------------------------------  FINE TITOLO*/
+ 
+/*--------------------------------------  INIZIO IMMAGINI*/
+.descrizione-immagini{
+    margin-left: 5px;
+    font-size: small;
+}
+
+/*--------------------------------------  FINE IMMAGINI*/
